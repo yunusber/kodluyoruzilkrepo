@@ -1,2 +1,1 @@
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
-code .
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo
